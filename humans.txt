@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+    13ys example@gmail.com @13ys
     <name> -- <role> -- <twitter>
 
 # THANKS
